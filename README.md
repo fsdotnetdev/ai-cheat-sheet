@@ -43,5 +43,3 @@ Document
 
 ## License
 Webneena license.
-
-## Credit
