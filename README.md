@@ -36,6 +36,14 @@ Document
 * Object Parts          ก็จะแบ่งเป็น Object เช่น หน้าต่าง, ประตู
 * Object                เราก็จะสรุปได้ว่าเป็นรูปตึก
 
+## Sequential Problem
+เป็นการแก้ปัญหาของข้อมูลที่มีการเรียงลำดับ อย่างเช่น ลำดับเลขอนุกรม แต่เป้นข้อมูลที่มี Data Point ที่เป็นอิสระต่อกันหรือเป็นข้อมูลแบบ Time Series ซึ่งไม่สามารถ Handle ได้ด้วย Neural Network แบบเดิม เรามาดูวิะีการแก้ปัญหาของ Sequential Problem กันเลย ยกตัวอย่าง สภาพอากาศ วันนี้อุณหภูมิเท่าไหร่ แดดออกฝนตก ถ้าเป็น Traditional Neural Network แบบเดิมมันสามารถ Predict ได้อยู่แล้ว โดยใช้ Straightforward task สำหรับ Neural Network
+
+## Recurrent Neural Network (RNN)
+เป็นการแบ่งการทำ Image Processing จากรูปภาพใหญ่เป้นรูปภาพย่อย ๆ เพื่อนำไปวิเคราะห์ว่าส่วนนั้นเป็นรูปอะไร ส่วนใหญ่จะนำไปใช้กับ Image Captioning หรือสามารถนำไปใช้กับ Music Composing โดยเทรนจากไฟล์ MIDI
+
+![](/Images/RNN-01.png) ![](/Images/RNN-02.png) ![](/Images/RNN-03.png)
+
 ## Project
 * Image Captioning Tensorflow
 * Pix2Code
