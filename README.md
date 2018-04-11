@@ -39,6 +39,10 @@ Document
 ## Sequential Problem
 เป็นการแก้ปัญหาของข้อมูลที่มีการเรียงลำดับ อย่างเช่น ลำดับเลขอนุกรม แต่เป้นข้อมูลที่มี Data Point ที่เป็นอิสระต่อกันหรือเป็นข้อมูลแบบ Time Series ซึ่งไม่สามารถ Handle ได้ด้วย Neural Network แบบเดิม เรามาดูวิะีการแก้ปัญหาของ Sequential Problem กันเลย ยกตัวอย่าง สภาพอากาศ วันนี้อุณหภูมิเท่าไหร่ แดดออกฝนตก ถ้าเป็น Traditional Neural Network แบบเดิมมันสามารถ Predict ได้อยู่แล้ว โดยใช้ Straightforward task สำหรับ Neural Network
 
+![](/Images/Sequential-01.png)
+
+![](/Images/Sequential-02.png)
+
 ## Recurrent Neural Network (RNN)
 เป็นการแบ่งการทำ Image Processing จากรูปภาพใหญ่เป้นรูปภาพย่อย ๆ เพื่อนำไปวิเคราะห์ว่าส่วนนั้นเป็นรูปอะไร ส่วนใหญ่จะนำไปใช้กับ Image Captioning หรือสามารถนำไปใช้กับ Music Composing โดยเทรนจากไฟล์ MIDI
 
@@ -47,6 +51,8 @@ Document
 นอกจากนั้นยังสามารถนำไปประยุกต์ใช้กับ Language Model เพื่อทำนายรูปประโยค ซึ่งก็เป็นข้อมูลแบบ Sequential แต่สามารถเป็นคำอะไรก็ได้ไม่แน่นอน
 
 ![](/Images/NLM-02.png)
+
+![](/Images/NLM-03.png)
 
 ## Project
 * Image Captioning Tensorflow
