@@ -54,6 +54,29 @@ Document
 
 ![](/Images/NLM-03.png)
 
+## Approaches Train Neaural Network
+วิธีการ Train จะถูกแบ่งออกเป็น 3 ประเภท ได้แก่
+* Supervised Learning
+* Reinforcement Learning
+* Unsupervised Learning
+
+#### Unsupervised Learning  
+จะเป็นการจัดกลุ่มข้อมูล โดยอาศัย Algorithm ต่าง ๆ
+* Pattern Recognition
+* Data Clustering
+* Object Recognition
+* Feature Extraction
+* Data Dimensionality Reduction
+
+และยังขึ้นอยู่กับเทคนิคที่เลือกใช้
+* Restricted Boltzmann Machine (RBM)    จะใช้ 2 Layer ในการหา Pattern ของข้อมูล โดยใช้ Reconstructing Input
+* Autoencoders
+* Self-Organizing Maps (SOM)
+* Principle Component Analysis (PCA)
+* K-Means
+
+![](/Images/Unsupervised.png)
+
 ## Project
 * Image Captioning Tensorflow
 * Pix2Code
