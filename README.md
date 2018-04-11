@@ -14,7 +14,7 @@ Document
 ## Application
 * Signal and Image Processing
 * Handwritten text/digits recognition
-* Natural Object Classification (Photo & Video) Ex. CNN Application
+* Natural Object Classification (Photo & Video)
 * Segmentation
 * Face Detection
 * Recommender System
@@ -25,11 +25,16 @@ Document
 * Machine Learning
 * Convolution Neural Network
 
-## Multi-Layered Models
-โดยปกติสมองของมนุษย์เราเมื่อเห็นภาพผ่าน Retina เข้ามาก็จะถูกส่งมายัง ![](/Images/Hemisphere.png)
+## Convolution Neural Network (CNN)
+เป็นส่วนหนึ่งในหัวข้อ Natural Object Classification โดยปกติสมองของมนุษย์เราเมื่อเห็นภาพผ่าน Retina เข้ามาก็จะถูกส่งมายังสมองส่วนต่าง ๆ ไปจนถึง Visual Cortex ทำให้เราเห็นเป็นรูปภาพหรือข้อความ
 
-## Convolution Neural Network
-โดยปกติ
+![](/Images/Hemisphere.png)
+
+แนวคิดนี้จึงถูกนำมาสร้างเป็น High-Level Syntax Model เพื่อให้สามารถนำไปใช้งานได้จริง Convolution Neural Network ซึ่งจะประกอบไปด้วย
+* Input Image           เป็นภาพต่าง ๆ
+* Primitive Features    จะเป็นการวิเคราะห์ภาพจาก Oriented edges and Shapes
+* Object Parts          ก็จะแบ่งเป็น Object เช่น หน้าต่าง, ประตู
+* Object                เราก็จะสรุปได้ว่าเป็นรูปตึก
 
 ## Project
 * Image Captioning Tensorflow
@@ -47,6 +52,9 @@ Document
 * ใช้ผลลัพธ์ทำนายข้อมูลใหม่
 
 สมการ y = a + bx
+
+## Credit
+* [Neuroph Java Framework](https://www.ibm.com/developerworks/library/cc-artificial-neural-networks-neuroph-machine-learning/index.html)
 
 ## License
 Webneena license.
