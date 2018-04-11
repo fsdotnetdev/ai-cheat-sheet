@@ -14,12 +14,22 @@ Document
 ## Application
 * Signal and Image Processing
 * Handwritten text/digits recognition
-* Natural Object Classification (Photo & Video)
+* Natural Object Classification (Photo & Video) Ex. CNN Application
 * Segmentation
 * Face Detection
 * Recommender System
 * Speech Recognition
 * Natural Language Processing
+
+## Goal
+* Machine Learning
+* Convolution Neural Network
+
+## Multi-Layered Models
+โดยปกติสมองของมนุษย์เราเมื่อเห็นภาพผ่าน Retina เข้ามาก็จะถูกส่งมายัง ![](/Images/Hemisphere.png)
+
+## Convolution Neural Network
+โดยปกติ
 
 ## Project
 * Image Captioning Tensorflow
