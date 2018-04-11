@@ -44,6 +44,8 @@ Document
 
 ![https://cs.stanford.edu/people/karpathy/deepimagesent/](/Images/RNN-02.png) ![https://cs.stanford.edu/people/karpathy/deepimagesent/](/Images/RNN-03.png)
 
+![https://cs.stanford.edu/people/karpathy/deepimagesent/](/Images/RNN-01.png) ![http://deeplearning.net/tutorial/rnnrbm.html](/Images/RNN-04.png)
+
 ## Project
 * Image Captioning Tensorflow
 * Pix2Code
