@@ -42,9 +42,7 @@ Document
 ## Recurrent Neural Network (RNN)
 เป็นการแบ่งการทำ Image Processing จากรูปภาพใหญ่เป้นรูปภาพย่อย ๆ เพื่อนำไปวิเคราะห์ว่าส่วนนั้นเป็นรูปอะไร ส่วนใหญ่จะนำไปใช้กับ Image Captioning หรือสามารถนำไปใช้กับ Music Composing โดยเทรนจากไฟล์ MIDI
 
-<p align="center">
-![](/Images/RNN-01.png) ![](/Images/RNN-03.png)
-</p>
+![](/Images/RNN-01.png)     ![](/Images/RNN-03.png)
 
 ## Project
 * Image Captioning Tensorflow
