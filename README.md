@@ -44,6 +44,10 @@ Document
 
 ![https://cs.stanford.edu/people/karpathy/deepimagesent/](/Images/RNN-02.png) ![https://cs.stanford.edu/people/karpathy/deepimagesent/](/Images/RNN-03.png)
 
+นอกจากนั้นยังสามารถนำไปประยุกต์ใช้กับ Language Model เพื่อทำนายรูปประโยค ซึ่งก็เป็นข้อมูลแบบ Sequential แต่สามารถเป็นคำอะไรก็ได้ไม่แน่นอน
+
+![](/Images/NLM-02.png)
+
 ## Project
 * Image Captioning Tensorflow
 * Pix2Code
