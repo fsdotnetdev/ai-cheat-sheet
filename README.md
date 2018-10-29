@@ -10,6 +10,11 @@ Document
 * [Caire](https://github.com/esimov/caire)
 * [Minigo](https://github.com/tensorflow/minigo)
 * [AlphaPose](https://github.com/MVIG-SJTU/AlphaPose)
+* [Person Blocker](https://github.com/minimaxir/person-blocker)
+* [Annvisualizer](https://github.com/Prodicode/ann-visualizer)
+* [Caffe64](https://github.com/dfouhey/caffe64)
+* [Fast Pandas](https://github.com/mm-mansour/Fast-Pandas)
+* [MLDB](https://mldb.ai/)
 
 ## Application
 * Signal and Image Processing
@@ -98,4 +103,4 @@ Document
 * [Neuroph Java Framework](https://www.ibm.com/developerworks/library/cc-artificial-neural-networks-neuroph-machine-learning/index.html)
 
 ## License
-Webneena license.
+Codeinsane license.
